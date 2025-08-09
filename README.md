@@ -96,13 +96,8 @@ docs/business_rules.md: Constraints and compliance
 vanguard_quantum_results.json: Performance metrics
 
 Execution
-bash
+```bash
 # Full demo
-python run_vanguard_optimization.py
+python run_vanguard_optimization.py```
 
-# Specific cases  
-python -c "
-from src.hybrid_pipeline import HybridQuantumPipeline, OptimizationType
-pipeline = HybridQuantumPipeline()
-# See script for detailed examples
-"
+
