@@ -1,4 +1,3 @@
-Claro! Aqui está a versão traduzida para inglês, formatada para um arquivo .md (Markdown) e sem emojis:
 
 2025 Vanguard Project: Quantum Portfolio Optimization
 Quantum solution for the Vanguard challenge of industrial-scale portfolio optimization.
