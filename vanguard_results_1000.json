@@ -1,0 +1,9 @@
+{
+  "n_assets": 1000,
+  "quantum_time": 0.015012264251708984,
+  "classical_time": 0.0001850128173828125,
+  "speedup": 0.012324111425213608,
+  "quantum_sharpe": 1.4562925593790474,
+  "classical_sharpe": 1.3596161777629194,
+  "quantum_advantage": 1
+}

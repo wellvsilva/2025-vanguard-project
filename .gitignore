@@ -1,0 +1,74 @@
+# Virtual Environment
+quantum_portfolio_env/
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Results and outputs
+data/results/
+*.log
+*.out
+plots/
+figures/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Credentials and sensitive data
+*.key
+*.pem
+config.ini
+secrets.json
+
+# Large data files
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# Quantum circuit images
+*.png
+*.jpg
+*.pdf
+
+# Temporary files
+temp/
+tmp/
